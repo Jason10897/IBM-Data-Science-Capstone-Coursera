@@ -1,5 +1,8 @@
 # IBM-Data-Science-Capstone-Coursera
 Contains my work for the Capstone Project for IBM Data Science Professional Certificate on Coursera. Use this only as a reference or for study purporse. Kindly follow Coursera's Honor Code and maintain a fair environment. 
 
-1. IBM Data Science Capstone.ipynb 
+1. IBM Data Science Capstone Introduction.ipynb 
 <br>Contains the assignment for the first week of the course.
+
+2. Foursquare API.ipynb
+<br>Contains the lab for the second week of the course.
