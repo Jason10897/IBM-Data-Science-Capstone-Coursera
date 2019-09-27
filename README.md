@@ -26,10 +26,10 @@ Contains my work for the Capstone Project for IBM Data Science Professional Cert
 <br>02. Final Assignment - Data.pdf
 <br> - Contains a summary about the data for the Capstone Project. This is the second part of the assignment for the fourth week of the course.
 <br>03. Final Assignment - London Neighborhood Clustering.ipynb
-<br> - Contains the code for the Capstone Project. This is the first part of the assignment for the fifth week of the course.
-<br>05. Final Assignment - Report.pdf
+<br> - Contains the code for the Capstone Project. This is the first part of the assignment for the fifth week of the course. Note that GitHub was not able to render the folium maps in the output. Also, I have censored my Foursquare API credentials for security reasons. Kindly replace the censored code (used the * symbol 5 times) with your own Foursquare API credentials for peronal use.
+<br>04. Final Assignment - Report.pdf
 <br> - Contains the final report for the Capstone Project. This is the second part of the assignment for the fifth week of the course.
-<br>06. Final Assignment - Presentation.pdf
+<br>05. Final Assignment - Presentation.pdf
 <br> - Contains the final presentation for the Capstone Project. This is the third part of the assignment for the fifth week of the course.
 
 Note: GitHub may not be able to render a Jupyter Notebook in one go, so kindly reload it a few times to view the Notebook, if it does not load the first time around.
