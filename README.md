@@ -15,4 +15,8 @@ Contains my work for the Capstone Project for IBM Data Science Professional Cert
 <br>Contains the second lab for the third week of the course.
 <br>Note that GitHub was not able to render the folium maps in the output. Also, I have censored my Foursquare API credentials for security reasons. Kindly replace the censored code (used the * symbol 5 times) with your own Foursquare API credentials for peronal use.    
 
+5. Segmenting and Clustering - Toronto.ipynb
+<br>Contains the assignment for the third week of the course. The assignment is divided into 3 parts. This notebook contains all 3 parts.
+<br>Note that GitHub was not able to render the folium maps in the output. Also, I have censored my Foursquare API credentials for security reasons. Kindly replace the censored code (used the * symbol 5 times) with your own Foursquare API credentials for peronal use.    
+
 Note: GitHub may not be able to render a Jupyter Notebook in one go, so kindly reload it a few times to view the Notebook, if it does not load the first time around.
