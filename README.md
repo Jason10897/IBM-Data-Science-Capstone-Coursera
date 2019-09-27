@@ -19,4 +19,11 @@ Contains my work for the Capstone Project for IBM Data Science Professional Cert
 <br>Contains the assignment for the third week of the course. The assignment is divided into 3 parts. This notebook contains all 3 parts.
 <br>Note that GitHub was not able to render the folium maps in the output. Also, I have censored my Foursquare API credentials for security reasons. Kindly replace the censored code (used the * symbol 5 times) with your own Foursquare API credentials for peronal use.    
 
+6. Capstone Project
+<br>Contains the code, report and presentation for the Capstone Project for the course.
+<br>01. Final Assignment - Introduction, Business Problem.pdf
+<br>Contains a summary about the selected Capstone Project problem statement.
+<br>02. Final Assignment - Data.pdf
+<br>Contains a summary about the data for the Capstone Projec.
+
 Note: GitHub may not be able to render a Jupyter Notebook in one go, so kindly reload it a few times to view the Notebook, if it does not load the first time around.
