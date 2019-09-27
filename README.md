@@ -22,8 +22,14 @@ Contains my work for the Capstone Project for IBM Data Science Professional Cert
 6. Capstone Project
 <br>This folder contains the code, report and presentation of the Capstone Project for the course.
 <br>01. Final Assignment - Introduction, Business Problem.pdf
-<br> - Contains a summary about the selected Capstone Project problem statement.
+<br> - Contains a summary about the selected Capstone Project problem statement. This is the first part of the assignment for the fourth week of the course.
 <br>02. Final Assignment - Data.pdf
-<br> - Contains a summary about the data for the Capstone Project.
+<br> - Contains a summary about the data for the Capstone Project. This is the second part of the assignment for the fourth week of the course.
+<br>03. Final Assignment - London Neighborhood Clustering.ipynb
+<br> - Contains the code for the Capstone Project. This is the first part of the assignment for the fifth week of the course.
+<br>05. Final Assignment - Report.pdf
+<br> - Contains the final report for the Capstone Project. This is the second part of the assignment for the fifth week of the course.
+<br>06. Final Assignment - Presentation.pdf
+<br> - Contains the final presentation for the Capstone Project. This is the third part of the assignment for the fifth week of the course.
 
 Note: GitHub may not be able to render a Jupyter Notebook in one go, so kindly reload it a few times to view the Notebook, if it does not load the first time around.
