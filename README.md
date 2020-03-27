@@ -29,6 +29,6 @@ Contains my work for the Capstone Project for IBM Data Science Professional Cert
 <br>05. Final Assignment - Presentation.pdf
 <br> - Contains the final presentation for the Capstone Project. This is the third part of the assignment for the fifth week of the course.
 
-Note: GitHub was not able to render the folium maps in the output. Also, I have censored my Foursquare API credentials for security reasons, whereever applicable. Kindly replace the censored code (used the * symbol 5 times) with your own Foursquare API credentials for personal use.
+Note: GitHub was not able to render any of the folium maps in the outputs. Also, I have censored my Foursquare API credentials for security reasons, wherever applicable. Kindly replace the censored code (used the * symbol 5 times) with your own Foursquare API credentials for personal use.
 
 Note: GitHub may not be able to render a Jupyter Notebook in one go, so kindly reload it a few times to view the Notebook, if it does not load the first time around. Alternatively, you can copy paste the GitHub URL to the notebook at https://nbviewer.jupyter.org/ to render it.
